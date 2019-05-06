@@ -157,7 +157,7 @@ openPage(event, item){
 
 ```
 
-###Naviguer depuis un Overlay Component (popover, alert, etc.)
+### Naviguer depuis un Overlay Component (popover, alert, etc.)
 
 Dans le doc officiel, on est censé d’ajouter 2 controllers :
 
@@ -313,7 +313,7 @@ Code:
 
 ### SegmentButton
 
-![segmentButton](/Users/pandalei/Desktop/DocIonic3/img/segmentButton.png)
+![segmentButton](./img/segmentButton.png)
 
 - Snippet: **ion-segment**
 
@@ -505,7 +505,7 @@ Code:
 
 Plié : ![plier](./img/plier.png)
 
-Déplié: ![deplier](/Users/pandalei/Desktop/DocIonic3/img/deplier.png)
+Déplié: ![deplier](./img/deplier.png)
 
 ```php+HTML
 <ion-item>
